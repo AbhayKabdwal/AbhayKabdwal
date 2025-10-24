@@ -28,7 +28,8 @@
 ### Languages & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,flask,django,mysql,git,github" />
-  <img src="https://raw.githubusercontent.com/Qiskit/qiskit/main/docs/assets/images/qiskit-logo.png" height="40" alt="Qiskit" />
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" 
+       style="height:40px;"/>
 </p>
 
 ---
