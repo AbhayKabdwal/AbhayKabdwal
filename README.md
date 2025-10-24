@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hey there, I'm <span style="color:#00bfff;">Abhay Kabdwal</span></h1>
-<h3 align="center">💻 Web Developer | ⚙️ C++ Enthusiast | 🐍 Python Explorer</h3>
+<h3 align="center">Love Teaching and coding | Into Data Science and Machine Learning | Quantum Computing Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhaykabdwal&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views"/>
@@ -9,10 +9,10 @@
 ---
 
 ### 🌱 About Me  
-- 🚀 Currently diving into **Django** & **React**  
-- 💬 Ask me about **C++, C, HTML, Python**  
+- 🚀 Currently diving into **React** & **Quantum Machine Learning**
+- 💬 Ask me about **C++, C, HTML, Python, Qiskit**  
 - 📧 Reach me at **[abhaykabdwal@gmail.com](mailto:abhaykabdwal@gmail.com)**  
-- ⚡ Fun fact: *I’m a proud nerd who loves debugging at 2 AM 😄*  
+- ⚡ Fun fact: *I’m a proud nerd who likes reading research papers more than talking to people 😄*  
 
 ---
 
@@ -27,7 +27,7 @@
 
 ### 🧰 Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,flask,django,mysql,mongodb,git,github,php" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,flask,django,mysql,git,github,qiskit" />
 </p>
 
 ---
@@ -54,9 +54,10 @@
 
 ---
 
-### 🧠 Quote I Live By  
+### 🧠 Quotes I Live By  
 > *"Code is like humor. When you have to explain it, it’s bad."*  
-> — *Cory House*
+> *"Live a life with no regrets."*
+> *"Work so hard as if all your ancestors are living again through you."*
 
 ---
 
