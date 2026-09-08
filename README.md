@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hey there, I'm <span style="color:#00bfff;">Abhay Kabdwal</span> 👋</h1>
-<h3 align="center">PhD Candidate at IIT Delhi, researching Network Security · Data Science & Machine Learning</h3>
+<h3 align="center">PhD Candidate at IIT Delhi, researching Network Security · Anonymous Communication systems </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abhaykabdwal&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile views"/>
@@ -10,10 +10,11 @@
 
 ### About Me
 
-- 🔭 Currently researching **Network Security** as a PhD candidate at IIT Delhi
-- 🌱 Also exploring **React** and **Quantum Machine Learning**
-- 💬 Ask me about **C++, C, Python, HTML, Qiskit**
-- 📫 Reach me at **[abhaykabdwal@gmail.com](mailto:abhaykabdwal@gmail.com)**
+- Currently researching **Network Security** as a PhD candidate at IIT Delhi
+- Previously worked on **Quantum Machine Learning**
+- Ask me about **C++, C, Python, HTML, Qiskit**
+- Reach me at **[abhaykabdwal@gmail.com](mailto:abhaykabdwal@gmail.com)**
+- Interested in **Teaching**
 
 ---
 
@@ -47,16 +48,6 @@
 
 <p align="center">
   <img width="50%" src="https://streak-stats.demolab.com/?user=abhaykabdwal&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
-### Achievements
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abhaykabdwal&theme=dracula&no-frame=true&margin-w=15" alt="trophies"/>
-  </a>
 </p>
 
 ---
